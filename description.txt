@@ -1,0 +1,105 @@
+[c/ff9600:CAUTION:]
+- This mod will seriously mess with Terraria mechanics. Don't use it on an existing player unless you really know what you're doing.
+- This mod is designed to be played with by itself. Other mods may break things.
+- This mod was not designed with multiplayer in mind. It may or may not work.
+- Please report any reproducible bugs.
+
+[c/ff0000:CTHULHU IS DEAD.]
+[c/ff0000:BLOOD IS LIFE.]
+[c/ff0000:TERRARIA NEEDS YOU.]
+
+Terrakill is a content and game-tweak mod that adds movement options, health mechanics, and weapon selection from ULTRAKILL into Terraria.
+The mod does not add enemies and probably won't for a while bc i suck at making NPCs, sorry :/
+
+[c/8bac0f:DO THIS:]
+ - Switch your life indicator to Bar mode (it works nicely with the Hard Damage text and Stamina Bar)
+ - Assign all your keybinds! Please don't play without assigning at least your Alt Fire keybind.
+
+Mechanic additions and changes:
+ - Life crystals and stuff are now useless. You are capped to 100 max life.
+ - Regeneration no longer exists. No using pickup hearts, potions, or anything else to regain life.
+ - A stamina bar with three charges allows you to Dash (LShift) and Slide (V).
+
+Weapons are acquired by slaying bosses. Progression is as follows:
+
+Piercer Revolver: On spawn
+Feedbacker: On spawn
+Any Revolver variant: Drops from King Slime
+Any Shotgun variant: Drops from Eye of Cthulhu
+Any Nailgun variant: Drops from Skeletron
+Any Rocket Launcher variant: Drops from Queen Bee
+Any Railcannon variant: Drops from Wall of Flesh
+Knuckleblaster: Drops from Wall of Flesh
+Whiplash: Drops from Plantera
+
+A new weapon, the rifle, as a drop from Deerclops. Additionally, red variants for weapons that do not have one (or gold variants for those that do) have been added. They can be crafted with Experimental Circuitry, a drop from Mechanical Bosses.
+
+In the latest major update:
+
+Finished the port to 1.4.4! Also a bit of secret content.
+
+[c/ff9600:CHANGELOG:]
+v1.0.0 - Release
+v1.0.1 - Fixed issues with sliding and ground slam
+       - Fixed Whiplash being usable before unlock and Whiplash being very spammable
+v1.0.2 - Added Hookpoints
+v1.0.3 - Fixed Whiplash rope rendering
+       - Moved Revolver variants to King Slime
+       - Fixed issues with sliding and ground slam
+v1.0.4 - Removed Hookpoints (cry about it)
+       - Buffed Plasma Rifle's Vortex
+       - Nerfed Sharpshooter Revolver
+       - Buffed Piercer Revolver
+       - Nerfed Freezeframe Rocket Launcher
+v1.0.5 - Reset hard damage on death and respawn with full life
+       - Buffed All shotguns
+       - Buffed Airburst Shotgun
+v1.1.0 - Added Alternate Revolver
+       - Added Sawblade Launcher (Alternate Nailgun)
+       - Added Alternate Shotgun
+v1.1.1 - Added Alternate Railcannon
+v1.1.2 - Reworked Malicious Alternate Railcannon
+       - Added Motorblade (unobtainable)
+v1.2.0 - Slightly changed Piercer Revolver mechanics
+       - Buffed both Piercer Revolvers
+       - Improved game performance when firing revolvers into the air
+       - Reworked all Fire debuffs
+       - Fixed rarity for Energy Shield Rifle
+       - Nerfed Streetcleaner Rifle's flamethrower
+       - Reworked SED System
+       - Added damage reduction to Pre-Hardmode bosses
+       - Nerfed projectile boosting
+       - Added screenshake
+       - Added hitstop
+v1.2.1 - Added configuration for screenshake and hitstop
+       - Nerfed Streetcleaner Rifle's flamethrower
+v1.2.2 - Added configuration for dashing and sliding
+       - Added configuration for health mechanics
+       - Fixed a bug that caused vanilla weapons to be unusable
+       - Added configuration for vanilla weapon screenshake
+       - Added configuration for reworked fire
+       - Added configuration for Pre-Hardmode boss damage reduction
+v1.3.0 - Nerfed rocket riding
+       - Fixed rocket riding
+       - Added configuration for vanilla screenshake strength
+       - Added orbital striking with Malicious Railcannon
+       - Severely nerfed Blue and Red Sawblade Launchers
+       - Rebalanced all Railcannons
+       - Increased the coolness of ricoshots from Marksman Revolvers
+       - Slab Marksman ricoshots will always critically strike and will not destroy coins
+v1.3.1 - Fixed Sharpshooter Revolver charge-shots
+       - Fixed bug with Piercer Revolver charging
+       - Nerfed Airburst shotguns
+       - Fixed several bugs with Overheat Sawblade Launcher
+       - Reworked SRS cannonball system
+v1.3.2 - Fixed rocket propulsion
+       - Added Grenade Launcher (Alternate Rocket Launcher)
+v2.0.b - Began porting to 1.4.4
+       - Rewrote the internals of almost every mechanic
+       - Rewrote the internals of several weapons
+       - Buffed Overheat Sawblade Launcher
+       - Nerfed Signal Revolver
+v2.0.0 - Finished porting to 1.4.4
+       - Fixed localization
+v2.0.1 - Removed DDB system
+       - Added Progression-based damage boost system (PDB)

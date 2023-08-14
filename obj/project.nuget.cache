@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R8PiS6YSoHlpYt7u/gw0Du27ahIiCMAfwJLZvPSKbKr0sWnN0m5iq1w5MYdS8jIA9JL394OfMaAProHOdRAwdQ==",
+  "success": true,
+  "projectFilePath": "/Users/sastrip/Library/Application Support/Terraria/tModLoader/ModSources/Terrakill/Terrakill.csproj",
+  "expectedPackageFiles": [
+    "/Users/sastrip/.nuget/packages/tmodloader.codeassist/0.1.5/tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

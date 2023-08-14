@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Terrakill", "Terrakill.csproj", "{86E05C5C-420D-4C94-8A8F-3FAA837D683B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86E05C5C-420D-4C94-8A8F-3FAA837D683B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86E05C5C-420D-4C94-8A8F-3FAA837D683B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86E05C5C-420D-4C94-8A8F-3FAA837D683B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86E05C5C-420D-4C94-8A8F-3FAA837D683B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C542086-A39E-4733-9B72-3974178C26E7}
+	EndGlobalSection
+EndGlobal

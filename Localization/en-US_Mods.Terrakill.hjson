@@ -1,0 +1,266 @@
+Keybinds: {
+	Dash.DisplayName: Dash
+	Slide.DisplayName: Slide
+	"Alternate Fire.DisplayName": Alternate  Fire
+	Punch.DisplayName: Punch
+	"Change Hand.DisplayName": Change  Hand
+	Whiplash.DisplayName: Whiplash
+}
+
+Items: {
+	FFGrenadeLauncher: {
+	}
+
+	AltElectricRailcannon: {
+	}
+
+	SlabPiercer: {
+	}
+
+	AttractorSawlauncher: {
+	}
+
+	AltCEShotgun: {
+	}
+
+	SRSGrenadeLauncher: {
+	}
+
+	AltScrewdriverRailcannon: {
+	}
+
+	SlabMarksman: {
+	}
+
+	OverheatSawlauncher: {
+	}
+
+	AltPCShotgun: {
+	}
+
+	BarrageGrenadeLauncher: {
+	}
+
+	AltMauriceRailcannon: {
+	}
+
+	SlabSharpshooter: {
+	}
+
+	NervenetSawlauncher: {
+	}
+
+	AltAirburstShotgun: {
+	}
+
+	AltCorrosiveRailcannon: {
+	}
+
+	SlabSignal: {
+	}
+
+	AttractorNailgun: {
+	}
+
+	ElectricRailcannon: {
+	}
+
+	PiercerRevolver: {
+	}
+
+	DoubledRifle: {
+	}
+
+	FFRocketLauncher: {
+	}
+
+	CEShotgun: {
+	}
+
+	OverheatNailgun: {
+	}
+
+	ScrewdriverRailcannon: {
+	}
+
+	EndMeRevolver: {
+	}
+
+	EnergyShieldRifle: {
+	}
+
+	SRSRocketLauncher: {
+	}
+
+	PCShotgun: {
+	}
+
+	NervenetNailgun: {
+	}
+
+	MauriceRailcannon: {
+	}
+
+	SharpshooterRevolver: {
+	}
+
+	RifleLore: {
+	}
+
+	StreetcleanerRifle: {
+	}
+
+	BarrageRocketLauncher: {
+	}
+
+	AirburstShotgun: {
+	}
+
+	CorrosiveRailcannon: {
+	}
+
+	SignalRevolver: {
+	}
+
+	PlasmaRifle: {
+	}
+
+	CBTGod: {
+	}
+
+	CoinGod: {
+	}
+
+	SoapBar: {
+	}
+
+	KnuckleblasterItem: {
+	}
+
+	Swordsmasword: {
+	}
+
+	WhiplashItem: {
+	}
+
+	ExperimentalCircuitry: {
+	}
+
+	VeryExperimentalCircuitry: {
+	}
+}
+
+Projectiles: {
+}
+
+Configs: {
+	ClientConfigurations: {
+		DisplayName: Client Configurations
+
+		hitstopMultiplier: {
+			Label: Hitstop Duration
+			Tooltip: Multiplies the length of time that hitstops are applied.
+		}
+
+		screenshakeMultiplier: {
+			Label: Screenshake Strength
+			Tooltip: Multiplies the strength of weapon screenshakes.
+		}
+
+		vanillaScreenshakes: {
+			Label: Vanilla Screenshakes
+			Tooltip: Allows vanilla weapons to use screenshake. Undoubtedly buggy.
+		}
+
+		vanillaScreenshakeMultiplier: {
+			Label: Vanilla Screenshake Strength
+			Tooltip: Multiplies the strength of weapon screenshakes for vanilla weapons.
+		}
+	}
+
+	ServerConfigurations: {
+		DisplayName: Server Configurations
+
+		randomRevolvers: {
+			Label: Revolver Progression Change
+			Tooltip:
+				'''
+				If enabled, revolvers will sometimes drop from any boss.
+				If not, they will always drop from King Slime.
+				'''
+		}
+
+		ultrahealth: {
+			Label: Health Mechanics
+			Tooltip:
+				'''
+				If enabled, the health system will behave similarly to ULTRAKILL's.
+				If not, it will be unchanged.
+				'''
+		}
+
+		ultramovement: {
+			Label: Movement Mechanics
+			Tooltip:
+				'''
+				If enabled, the movement system will behave similarly to ULTRAKILL's.
+				If not, it will be unchanged.
+				'''
+		}
+
+		ultraDDB: {
+			Label: Damage Mechanics
+			Tooltip: Changes which projectiles are affected by the mod's damage boost system.
+		}
+
+		ultraBossBuff: {
+			Label: Prehardmode Boss Buff
+			Tooltip: If enabled, Pre-Hardmode bosses will receive extra damage reduction.
+		}
+
+		ultrafire: {
+			Label: Fire Mechanics
+			Tooltip: Changes how fire affects the player and enemies.
+		}
+
+		developerKey: {
+			Label: Developer Key
+			Tooltip: Allows for a variety of silly effects.
+		}
+
+		ultraPDB: {
+			Label: Damage Mechanics
+			Tooltip: Changes which projectiles are affected by the mod's damage boost system.
+		}
+	}
+
+	MovementType: {
+		Tooltip: ""
+		None.Label: None
+		Dashing_Only.Label: Dashing_ Only
+		Sliding_Only.Label: Sliding_ Only
+		All.Label: All
+	}
+
+	DDBType: {
+		Tooltip: ""
+		None.Label: None
+		Modded_Only.Label: Modded_ Only
+		All.Label: All
+	}
+
+	FireType: {
+		Tooltip: ""
+		None.Label: None
+		Player_Only.Label: Player_ Only
+		Enemies_Only.Label: Enemies_ Only
+		All.Label: All
+	}
+
+	PDBType: {
+		Tooltip: ""
+		None.Label: None
+		Modded_Only.Label: Modded_ Only
+		All.Label: All
+	}
+}

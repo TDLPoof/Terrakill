@@ -1,0 +1,538 @@
+Mods: {
+	Terrakill: {
+		Items: {
+			FFGrenadeLauncher: {
+				DisplayName: Grenade Launcher
+				Tooltip:
+					'''
+					Fires grenades that explode on enemy contact, or make shockwaves after a certain time
+					Toggle Alt Fire to freeze all grenades' timers
+					Deals increased damage against boss enemies
+					'''
+			}
+
+			AltElectricRailcannon: {
+				DisplayName: Light Railcannon
+				Tooltip:
+					'''
+					Hold Alt Fire to scope in, increasing damage
+					Recharges even while other weapons are held
+					Deals massively increased damage against boss enemies
+					'''
+			}
+
+			SlabPiercer: {
+				DisplayName: Magnum Revolver
+				Tooltip:
+					'''
+					Hold Alt Fire to charge a stronger piercing beam
+					Piercing beam penetrates three weak enemies or hits a strong enemy 3 times
+					Deals massively increased damage against boss enemies
+					'''
+			}
+
+			AttractorSawlauncher: {
+				DisplayName: Sawblade Launcher
+				Tooltip:
+					'''
+					Press Alt Fire to launch up to three saw magnets
+					Saws will be attracted to magnets
+					Deals massively increased damage against boss enemies
+					'''
+			}
+
+			AltCEShotgun: {
+				DisplayName: Drum Shotgun
+				Tooltip:
+					'''
+					Press Alt Fire to launch all of your overheated cores
+					Core launches are explosive and can be shot with hitscan weapons
+					Deals increased damage against boss enemies
+					'''
+			}
+
+			SRSGrenadeLauncher: {
+				DisplayName: Grenade Launcher
+				Tooltip:
+					'''
+					Fires grenades that explode on enemy contact, or make shockwaves after a certain time
+					Hold Alt Fire to charge a spread of piercing shrapnel
+					Deals increased damage against boss enemies
+					'''
+			}
+
+			AltScrewdriverRailcannon: {
+				DisplayName: Light Railcannon
+				Tooltip:
+					'''
+					Fires a harpoon that embeds in an enemy
+					Throw them around by swinging the cursor
+					Deals massively increased damage against boss enemies
+					'''
+			}
+
+			SlabMarksman: {
+				DisplayName: Magnum Revolver
+				Tooltip:
+					'''
+					Press Alt Fire to throw a coin
+					Ricoshots will always critically strike
+					Deals massively increased damage against boss enemies
+					'''
+			}
+
+			OverheatSawlauncher: {
+				DisplayName: Sawblade Launcher
+				Tooltip:
+					'''
+					Firing generates heat, which slows down firerate
+					Press Alt Fire to consume a heatsink to fire a burning saw
+					Deals massively increased damage against boss enemies
+					'''
+			}
+
+			AltPCShotgun: {
+				DisplayName: Drum Shotgun
+				Tooltip:
+					'''
+					Press Alt Fire to pump the gun
+					More pumping increases damage, but also spread, until it explodes
+					Deals increased damage against boss enemies
+					'''
+			}
+
+			BarrageGrenadeLauncher: {
+				DisplayName: Grenade Launcher
+				Tooltip:
+					'''
+					Fires grenades that explode on enemy contact, or make shockwaves after a certain time
+					Hold Alt Fire to quickly release grenades, increasing the chances of malfunction
+					Deals increased damage against boss enemies
+					'''
+			}
+
+			AltMauriceRailcannon: {
+				DisplayName: Light Railcannon
+				Tooltip:
+					'''
+					Fires explosive beams
+					Recharges even while other weapons are held
+					Deals massively increased damage against boss enemies
+					'''
+			}
+
+			SlabSharpshooter: {
+				DisplayName: Magnum Revolver
+				Tooltip:
+					'''
+					Hold Alt Fire to spin the revolver
+					Spin shots richocet off of walls
+					Deals massively increased damage against boss enemies
+					'''
+			}
+
+			NervenetSawlauncher: {
+				DisplayName: Sawblade Launcher
+				Tooltip:
+					'''
+					Press Alt Fire to launch a spread of markers
+					Nerve nails create damaging lines toward markers
+					Deals massively increased damage against boss enemies
+					'''
+			}
+
+			AltAirburstShotgun: {
+				DisplayName: Drum Shotgun
+				Tooltip:
+					'''
+					Press Alt Fire to fire an airburst round
+					Airburst rounds explode into shotgun pellets mid-flight
+					Deals increased damage against boss enemies
+					'''
+			}
+
+			AltCorrosiveRailcannon: {
+				DisplayName: Light Railcannon
+				Tooltip:
+					'''
+					Fires lingering golden beams
+					Recharges even while other weapons are held
+					Deals massively increased damage against boss enemies
+					'''
+			}
+
+			SlabSignal: {
+				DisplayName: Magnum Revolver
+				Tooltip:
+					'''
+					Press Alt Fire to launch a trap that sticks to enemies
+					Enemies take double damage while trapped and shots will redirect to nearby enemies
+					Deals massively increased damage against boss enemies
+					'''
+			}
+
+			AttractorNailgun: {
+				DisplayName: Nailgun
+				Tooltip:
+					'''
+					Press Alt Fire to launch up to three nail magnets
+					Nails will be attracted to magnets
+					Deals massively increased damage against boss enemies
+					'''
+			}
+
+			ElectricRailcannon: {
+				DisplayName: Railcannon
+				Tooltip:
+					'''
+					Fires an incredibly powerful piercing blast with a very long cooldown
+					Recharges even while other weapons are held
+					Deals massively increased damage against boss enemies
+					'''
+			}
+
+			PiercerRevolver: {
+				DisplayName: Revolver
+				Tooltip:
+					'''
+					Hold Alt Fire to charge a stronger piercing beam
+					Piercing beam penetrates three weak enemies or hits a strong enemy 3 times
+					Deals massively increased damage against boss enemies
+					'''
+			}
+
+			DoubledRifle: {
+				DisplayName: Rifle
+				Tooltip:
+					'''
+					Primary Fire shoots electric hitscans
+					Alt Fire shoots heat projectiles
+					Deals massively increased damage against boss enemies
+					'''
+			}
+
+			FFRocketLauncher: {
+				DisplayName: Rocket Launcher
+				Tooltip:
+					'''
+					Fires rockets that explode on enemy contact, or make shockwaves on ground contact
+					Toggle Alt Fire to freeze rockets
+					Deals increased damage against boss enemies
+					'''
+			}
+
+			CEShotgun: {
+				DisplayName: Shotgun
+				Tooltip:
+					'''
+					Press Alt Fire to launch an overheated core
+					Core launches are explosive and can be shot with hitscan weapons
+					Deals increased damage against boss enemies
+					'''
+			}
+
+			OverheatNailgun: {
+				DisplayName: Nailgun
+				Tooltip:
+					'''
+					Firing generates heat, which slows down firerate
+					Press Alt Fire to consume a heatsink to fire burning nails
+					Deals massively increased damage against boss enemies
+					'''
+			}
+
+			ScrewdriverRailcannon: {
+				DisplayName: Railcannon
+				Tooltip:
+					'''
+					Fires an incredibly powerful screwdriver with a very long cooldown
+					Recharges even while other weapons are held
+					Deals massively increased damage against boss enemies
+					'''
+			}
+
+			EndMeRevolver: {
+				DisplayName: Revolver
+				Tooltip:
+					'''
+					Press Alt Fire to throw a coin
+					Hitscan weapons bounce off coins
+					Deals massively increased damage against boss enemies
+					'''
+			}
+
+			EnergyShieldRifle: {
+				DisplayName: Rifle
+				Tooltip:
+					'''
+					Primary Fire shoots electric hitscans
+					Alt Fire projects an energy shield which blocks projectiles
+					Deals massively increased damage against boss enemies
+					'''
+			}
+
+			SRSRocketLauncher: {
+				DisplayName: Rocket Launcher
+				Tooltip:
+					'''
+					Fires rockets that explode on enemy contact, or make shockwaves on ground contact
+					Press Alt Fire to launch cannonballs that can be juggled
+					Deals increased damage against boss enemies
+					'''
+			}
+
+			PCShotgun: {
+				DisplayName: Shotgun
+				Tooltip:
+					'''
+					Press Alt Fire to pump the gun
+					More pumping increases damage, but also spread, until it explodes
+					Deals increased damage against boss enemies
+					'''
+			}
+
+			NervenetNailgun: {
+				DisplayName: Nailgun
+				Tooltip:
+					'''
+					Press Alt Fire to launch a floating marker
+					Nerve nails create damaging lines toward markers
+					Deals massively increased damage against boss enemies
+					'''
+			}
+
+			MauriceRailcannon: {
+				DisplayName: Railcannon
+				Tooltip:
+					'''
+					Fires an incredibly powerful explosive blast with a very long cooldown
+					Recharges even while other weapons are held
+					Deals massively increased damage against boss enemies
+					'''
+			}
+
+			SharpshooterRevolver: {
+				DisplayName: Revolver
+				Tooltip:
+					'''
+					Hold Alt Fire to spin the revolver
+					Spin shots richocet off of walls
+					Deals massively increased damage against boss enemies
+					'''
+			}
+
+			RifleLore: {
+				DisplayName: Lore [Rifle]
+				Tooltip:
+					'''
+					A weapon created as a prototype before the Final War designed applicable in
+					a variety of situations. The rifle features several attachment options and integrations,
+					leading to many different variations, employing electric, heat, and in rare
+					cases, even plasma-based projectiles.
+					 
+					A common variation includes systems to fire both electric and heat projectiles, but the
+					Size constraints imposed by the dual nature of the weapon means that the cooling and
+					battery recharges take longer.
+					'''
+			}
+
+			StreetcleanerRifle: {
+				DisplayName: Rifle
+				Tooltip:
+					'''
+					Primary Fire shoots heat projectiles
+					Alt Fire charges up a powerful flamethrower
+					Deals massively increased damage against boss enemies
+					'''
+			}
+
+			BarrageRocketLauncher: {
+				DisplayName: Rocket Launcher
+				Tooltip:
+					'''
+					Fires rockets that explode on enemy contact, or make shockwaves on ground contact
+					Hold Alt Fire to quickly launch homing rockets, which replenish when hitting enemies with normal rockets
+					Deals increased damage against boss enemies
+					'''
+			}
+
+			AirburstShotgun: {
+				DisplayName: Shotgun
+				Tooltip:
+					'''
+					Press Alt Fire to fire an airburst round
+					Airburst rounds explode into shotgun pellets mid-flight
+					Deals increased damage against boss enemies
+					'''
+			}
+
+			CorrosiveRailcannon: {
+				DisplayName: Railcannon
+				Tooltip:
+					'''
+					Charges an incredibly powerful beam that damages and burns enemies while it is active
+					Recharges even while other weapons are held
+					Deals massively increased damage against boss enemies
+					'''
+			}
+
+			SignalRevolver: {
+				DisplayName: Revolver
+				Tooltip:
+					'''
+					Press Alt Fire to launch a trap that sticks to enemies
+					Enemies take double damage while trapped and shots will redirect to nearby enemies
+					Deals massively increased damage against boss enemies
+					'''
+			}
+
+			PlasmaRifle: {
+				DisplayName: Rifle
+				Tooltip:
+					'''
+					Primary Fire shoots plasma projectiles that can pass through walls
+					Alt Fire projects a plasma vortex that pulls in enemies
+					Deals massively increased damage against boss enemies
+					'''
+			}
+
+			CBTGod: {
+				DisplayName: Cannonball God
+				Tooltip: king of CBT
+			}
+
+			CoinGod: {
+				DisplayName: Coin God
+				Tooltip: I love coin
+			}
+
+			SoapBar: {
+				DisplayName: Bar of Soap
+				Tooltip: You should really take a shower
+			}
+
+			KnuckleblasterItem: {
+				DisplayName: Knuckleblaster
+				Tooltip:
+					'''
+					A powerful and slow punching arm
+					Hold Punch to release a powerful shockwave
+					'''
+			}
+
+			Swordsmasword: {
+				DisplayName: Motorblade
+				Tooltip: The blade of the orignal Swordsmachine
+			}
+
+			WhiplashItem: {
+				DisplayName: Whiplash
+				Tooltip:
+					'''
+					A winch attached to an arm
+					Hold Whiplash to send a grappling hook that pulls light enemies to you, and you to heavy enemies
+					'''
+			}
+
+			ExperimentalCircuitry: {
+				DisplayName: Experimental Circuitry
+				Tooltip: Combine with a blue or green weapon to receive its red variant
+			}
+
+			VeryExperimentalCircuitry: {
+				DisplayName: Very Experimental Circuitry
+				Tooltip: Combine with a weapon to receive its gold variant
+			}
+		}
+
+		Projectiles: {
+			Grenade.DisplayName: Grenade
+			GrenadeDamage.DisplayName: Grenade
+			GrenadeSelfDamage.DisplayName: Grenade
+			AltElectricRailshot.DisplayName: Light Railcannon
+			SlabPiercerBullet.DisplayName: Magnum Revolver
+			SlabPiercerSuper.DisplayName: Magnum Revolver
+			SilverSaw.DisplayName: Sawblade Launcher
+			AltCoreBomb.DisplayName: Core Eject
+			AltShotgunPellet.DisplayName: Drum Shotgun
+			SGrenade.DisplayName: Grenade
+			SRShard.DisplayName: S.R.S Cannon Shard
+			AltScrewDamage.DisplayName: Light Railcannon
+			AltScrewdriver.DisplayName: Light Railcannon
+			SlabMarksmanBullet.DisplayName: Magnum Revolver
+			FireSaw.DisplayName: Sawblade Launcher
+			NormSaw.DisplayName: Sawblade Launcher
+			AltPCDamage.DisplayName: Overcharge
+			AltPCSelfDamage.DisplayName: Overcharge
+			AltPCShotgunPellet.DisplayName: Drum Shotgun
+			BarrageDamage.DisplayName: Malfunction
+			BarrageSelfDamage.DisplayName: Malfunction
+			BGrenade.DisplayName: Grenade
+			AltMauriceRailshot.DisplayName: Light Railcannon
+			SlabSharpshooterBullet.DisplayName: Magnum Revolver
+			SlabSharpshooterSpin.DisplayName: how did you kill something with this
+			SlabSharpshooterSuper.DisplayName: Magnum Revolver
+			NerveSaw.DisplayName: Sawblade Launcher
+			AltAirburstBomb.DisplayName: Airburst
+			AltAirburstShotgunPellet.DisplayName: Drum Shotgun
+			AltCorrosiveLinger.DisplayName: Light Railcannon
+			AltCorrosiveRailshot.DisplayName: Light Railcannon
+			SlabSignalBullet.DisplayName: Magnum Revolver
+			Magnet.DisplayName: Magnet
+			Nail.DisplayName: Nailgun
+			ElectricRailshot.DisplayName: Railcannon
+			PiercerBullet.DisplayName: Revolver
+			PiercerSuper.DisplayName: Revolver
+			ElectricBullet.DisplayName: Rifle
+			HeatBullet.DisplayName: Rifle
+			Rocket.DisplayName: Rocket
+			RocketDamage.DisplayName: Rocket
+			RocketSelfDamage.DisplayName: Rocket
+			CoreBomb.DisplayName: Core Eject
+			ForYouToo.DisplayName: Core Eject
+			HaveSomeDamage.DisplayName: Core Eject
+			ShotgunPellet.DisplayName: Shotgun Pellet
+			FireNail.DisplayName: Fire Nail
+			NormNail.DisplayName: Norm Nail
+			Screwdriver.DisplayName: Screwdriver
+			EndMeBullet.DisplayName: Revolver
+			EndMeCoin.DisplayName: Capitalistiiiicc iinnssttiicc
+			EnergyShield.DisplayName: Energy Shield
+			ESElectricBullet.DisplayName: E S Electric Bullet
+			SRocket.DisplayName: S Rocket
+			SRSBall.DisplayName: S R S Ball
+			PCDamage.DisplayName: Overcharge
+			PCSelfDamage.DisplayName: Overcharge
+			PCShotgunPellet.DisplayName: P C Shotgun Pellet
+			NerveDamage.DisplayName: Nerve Net
+			NerveMarker.DisplayName: Nerve Marker
+			NerveNail.DisplayName: Nerve Nail
+			NerveSlabDamage.DisplayName: Nerve Net
+			MauriceRailshot.DisplayName: Maurice Railshot
+			SharpshooterBullet.DisplayName: Sharpshooter Bullet
+			SharpshooterSpin.DisplayName: Sharpshooter Spin
+			SharpshooterSuper.DisplayName: Sharpshooter Super
+			SCFlamethrower.DisplayName: S C Flamethrower
+			SCHeatBullet.DisplayName: S C Heat Bullet
+			BarrageRocket.DisplayName: Barrage Rocket
+			BRocket.DisplayName: B Rocket
+			AirburstBomb.DisplayName: Airburst Bomb
+			AirburstShotgunPellet.DisplayName: Airburst Shotgun Pellet
+			CorrosiveBeam.DisplayName: Corrosive Beam
+			CorrosiveRailshot.DisplayName: Corrosive Railshot
+			SignalBullet.DisplayName: Signal Bullet
+			SignalTrap.DisplayName: Signal Trap
+			PlasmaBullet.DisplayName: Plasma Bullet
+			PlasmaVortex.DisplayName: Plasma Vortex
+			SoapProjectile.DisplayName: hygenic lifestyle
+			Dummy.DisplayName: Dummy
+			Feedbacker.DisplayName: Feedbacker
+			GetFucked.DisplayName: their own love of projectile-boosting. Maybe this will teach you a lesson
+			Knuckleblaster.DisplayName: Knuckleblaster
+			ParryBomb.DisplayName: their love of projectile-boosting
+			SwordsmaswordParry.DisplayName: Motorblade
+			Whiplash.DisplayName: Whiplash
+			WhiplashProjectile.DisplayName: Whiplash Projectile
+		}
+	}
+}
